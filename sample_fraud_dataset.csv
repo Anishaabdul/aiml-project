@@ -1,0 +1,11 @@
+TransactionID,Amount,OldBalance,NewBalance,TransactionType,Fraud
+1,120.5,1000,879.5,Payment,0
+2,50.0,500,450.0,Transfer,0
+3,500.2,1500,1000.0,Payment,1
+4,15.0,200,185.0,CashOut,0
+5,2000.0,5000,3000.0,Transfer,1
+6,75.5,700,624.5,Payment,0
+7,320.0,1000,680.0,Transfer,1
+8,5.0,50,45.0,CashOut,0
+9,999.0,3000,2001.0,Payment,1
+10,30.5,400,369.5,Transfer,0
